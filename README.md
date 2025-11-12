@@ -30,4 +30,4 @@ Yayasan Pendidikan ARA akan membangun jaringan untuk beberapa unit kerja. Sebagi
 4. Konfigurasikan alamat IP di setiap interface router dan host pada CPT sesuai tabel hasil subnetting di Spreadsheet.
 
 ## Topologi
-
+![Topologi Jarkom](images/Tugas1Jarkom_Topologi_069.png)
